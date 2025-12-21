@@ -26,3 +26,6 @@
 => master / main 
 
 => git init 
+
+=> git commit 
+=> git push 
