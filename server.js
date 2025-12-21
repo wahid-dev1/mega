@@ -345,3 +345,4 @@ class Truck extends Vehicle{
 let myTruck=new Truck("Ford","F-150",2019,"6 feet");
 console.log(myTruck.getInfo())
 
+console.log("End of file server.js");
