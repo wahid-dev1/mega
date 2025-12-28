@@ -31,3 +31,22 @@
 => git push
 
 => new session about git
+
+master 
+product-uzair
+order-farhan
+
+step1 
+product-uzair
+
+(changes)
+step2 
+master (updated from all branches)
+===>merge order-farhan with master => update by Farhan code
+=> readme.md =< line 4>
+step3 
+=> master by uzair branch 
+=> merge uzair branch with master 
+=> change readme.md =< line 4>
+
+=> conflict 
